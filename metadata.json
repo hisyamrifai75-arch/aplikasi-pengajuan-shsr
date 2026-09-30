@@ -1,0 +1,6 @@
+{
+  "name": "Aplikasi Pengajuan & Persetujuan SHSR",
+  "description": "Sistem Pengajuan dan Persetujuan Standar Harga Satuan Regional (SHSR) Terintegrasi Template SIPD untuk SKPD dan BPKAD",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
